@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/IfConditions/bin/Debug/net10.0/IfConditions
+/Users/murari/Desktop/myWork/C#/IfConditions/bin/Debug/net10.0/IfConditions.deps.json
+/Users/murari/Desktop/myWork/C#/IfConditions/bin/Debug/net10.0/IfConditions.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/IfConditions/bin/Debug/net10.0/IfConditions.dll
+/Users/murari/Desktop/myWork/C#/IfConditions/bin/Debug/net10.0/IfConditions.pdb
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.sourcelink.json
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.dll
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/refint/IfConditions.dll
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.pdb
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/IfConditions.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/IfConditions/obj/Debug/net10.0/ref/IfConditions.dll

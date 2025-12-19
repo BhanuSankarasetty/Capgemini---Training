@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/sample/bin/Debug/net10.0/sample
+/Users/murari/Desktop/myWork/C#/sample/bin/Debug/net10.0/sample.deps.json
+/Users/murari/Desktop/myWork/C#/sample/bin/Debug/net10.0/sample.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/sample/bin/Debug/net10.0/sample.dll
+/Users/murari/Desktop/myWork/C#/sample/bin/Debug/net10.0/sample.pdb
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.sourcelink.json
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.dll
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/refint/sample.dll
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.pdb
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/sample.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/sample/obj/Debug/net10.0/ref/sample.dll

@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.sourcelink.json
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/bin/Debug/net10.0/SchoolManagementSystem
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/bin/Debug/net10.0/SchoolManagementSystem.deps.json
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/bin/Debug/net10.0/SchoolManagementSystem.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/bin/Debug/net10.0/SchoolManagementSystem.dll
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/bin/Debug/net10.0/SchoolManagementSystem.pdb
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.dll
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/refint/SchoolManagementSystem.dll
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.pdb
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/SchoolManagementSystem.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/SchoolManagementSystem/obj/Debug/net10.0/ref/SchoolManagementSystem.dll

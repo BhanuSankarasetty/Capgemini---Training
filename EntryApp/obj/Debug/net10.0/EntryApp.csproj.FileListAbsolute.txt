@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/EntryApp/bin/Debug/net10.0/EntryApp
+/Users/murari/Desktop/myWork/C#/EntryApp/bin/Debug/net10.0/EntryApp.deps.json
+/Users/murari/Desktop/myWork/C#/EntryApp/bin/Debug/net10.0/EntryApp.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/EntryApp/bin/Debug/net10.0/EntryApp.dll
+/Users/murari/Desktop/myWork/C#/EntryApp/bin/Debug/net10.0/EntryApp.pdb
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.sourcelink.json
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.dll
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/refint/EntryApp.dll
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.pdb
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/EntryApp.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/EntryApp/obj/Debug/net10.0/ref/EntryApp.dll
