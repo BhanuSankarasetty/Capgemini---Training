@@ -1,0 +1,14 @@
+/Users/murari/Desktop/myWork/C#/Loops/bin/Debug/net10.0/Loops
+/Users/murari/Desktop/myWork/C#/Loops/bin/Debug/net10.0/Loops.deps.json
+/Users/murari/Desktop/myWork/C#/Loops/bin/Debug/net10.0/Loops.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/Loops/bin/Debug/net10.0/Loops.dll
+/Users/murari/Desktop/myWork/C#/Loops/bin/Debug/net10.0/Loops.pdb
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.dll
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/refint/Loops.dll
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.pdb
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/Loops.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/Loops/obj/Debug/net10.0/ref/Loops.dll

@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.sourcelink.json
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/bin/Debug/net10.0/StudentManagementSystem
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/bin/Debug/net10.0/StudentManagementSystem.deps.json
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/bin/Debug/net10.0/StudentManagementSystem.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/bin/Debug/net10.0/StudentManagementSystem.dll
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/bin/Debug/net10.0/StudentManagementSystem.pdb
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.dll
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/refint/StudentManagementSystem.dll
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.pdb
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/StudentManagementSystem.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/StudentManagementSystem/obj/Debug/net10.0/ref/StudentManagementSystem.dll

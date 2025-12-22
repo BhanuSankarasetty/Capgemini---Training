@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/bin/Debug/net10.0/Day4OopDemo
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/bin/Debug/net10.0/Day4OopDemo.deps.json
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/bin/Debug/net10.0/Day4OopDemo.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/bin/Debug/net10.0/Day4OopDemo.dll
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/bin/Debug/net10.0/Day4OopDemo.pdb
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.sourcelink.json
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.dll
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/refint/Day4OopDemo.dll
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.pdb
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/Day4OopDemo.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/Day4OopDemo/obj/Debug/net10.0/ref/Day4OopDemo.dll
