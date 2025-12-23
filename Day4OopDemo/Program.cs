@@ -89,13 +89,14 @@ class Program
         Console.WriteLine("Product ID: " + product.Id);
         Console.WriteLine("Product Name: " + product.Name);
         Console.WriteLine("Product Price: " + product.Price);
-        
+
 
         // traditional way of initialization        
         Product product2 = new Product();
         product2.Id = 2;
 
         // collection initializer
+        
         
     }
 }

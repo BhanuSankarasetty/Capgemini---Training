@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/BakerySystem/bin/Debug/net10.0/BakerySystem
+/Users/murari/Desktop/myWork/C#/BakerySystem/bin/Debug/net10.0/BakerySystem.deps.json
+/Users/murari/Desktop/myWork/C#/BakerySystem/bin/Debug/net10.0/BakerySystem.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/BakerySystem/bin/Debug/net10.0/BakerySystem.dll
+/Users/murari/Desktop/myWork/C#/BakerySystem/bin/Debug/net10.0/BakerySystem.pdb
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.sourcelink.json
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.dll
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/refint/BakerySystem.dll
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.pdb
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/BakerySystem.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/BakerySystem/obj/Debug/net10.0/ref/BakerySystem.dll

@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.sourcelink.json
+/Users/murari/Desktop/myWork/C#/PriceCalculator/bin/Debug/net10.0/PriceCalculator
+/Users/murari/Desktop/myWork/C#/PriceCalculator/bin/Debug/net10.0/PriceCalculator.deps.json
+/Users/murari/Desktop/myWork/C#/PriceCalculator/bin/Debug/net10.0/PriceCalculator.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/PriceCalculator/bin/Debug/net10.0/PriceCalculator.dll
+/Users/murari/Desktop/myWork/C#/PriceCalculator/bin/Debug/net10.0/PriceCalculator.pdb
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.dll
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/refint/PriceCalculator.dll
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.pdb
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/PriceCalculator.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/PriceCalculator/obj/Debug/net10.0/ref/PriceCalculator.dll

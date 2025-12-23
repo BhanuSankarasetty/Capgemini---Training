@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.sourcelink.json
+/Users/murari/Desktop/myWork/C#/CandyStore/bin/Debug/net10.0/CandyStore
+/Users/murari/Desktop/myWork/C#/CandyStore/bin/Debug/net10.0/CandyStore.deps.json
+/Users/murari/Desktop/myWork/C#/CandyStore/bin/Debug/net10.0/CandyStore.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/CandyStore/bin/Debug/net10.0/CandyStore.dll
+/Users/murari/Desktop/myWork/C#/CandyStore/bin/Debug/net10.0/CandyStore.pdb
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.dll
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/refint/CandyStore.dll
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.pdb
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/CandyStore.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/CandyStore/obj/Debug/net10.0/ref/CandyStore.dll
