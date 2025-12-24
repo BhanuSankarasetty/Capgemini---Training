@@ -1,0 +1,15 @@
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/bin/Debug/net10.0/SnippetAssignments
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/bin/Debug/net10.0/SnippetAssignments.deps.json
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/bin/Debug/net10.0/SnippetAssignments.runtimeconfig.json
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/bin/Debug/net10.0/SnippetAssignments.dll
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/bin/Debug/net10.0/SnippetAssignments.pdb
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.AssemblyInfoInputs.cache
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.AssemblyInfo.cs
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.csproj.CoreCompileInputs.cache
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.sourcelink.json
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.dll
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/refint/SnippetAssignments.dll
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.pdb
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/SnippetAssignments.genruntimeconfig.cache
+/Users/murari/Desktop/myWork/C#/SnippetAssignments/obj/Debug/net10.0/ref/SnippetAssignments.dll
